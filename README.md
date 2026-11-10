@@ -11,7 +11,17 @@
 
 </div>
 
+```console
+$ whoami
+ramdhani hadi winarno  /  fullstack developer  /  bug hunter
 
+$ cat stack.txt
+python / typescript / go / php / react / next.js / node / laravel
+
+$ ./now.sh
+founder   ->  Nexty Labs
+hunting   ->  web & API vulnerabilities
+```
 
 <div align="center">
 
@@ -36,6 +46,26 @@
 
 <br>
 <br>
+
+<h3>Trophies</h3>
+
+<img src="https://github-profile-trophy.vercel.app/?username=DhanzzZ&theme=gruvbox&column=6&row=2&margin-w=12&margin-h=12&no-frame=true&no-bg=true" alt="GitHub trophies">
+
+<br>
+<br>
+
+<!--
+AKTIFKAN setelah kamu punya link grafik WakaTime:
+1) Ganti PASTE_LINK_SVG_WAKATIME dengan link .svg dari wakatime.com/share/embed
+2) Hapus tanda pembuka "<!--" di atas dan tanda penutup "-->" paling bawah blok ini
+
+<h3>Code Activity</h3>
+
+<img src="PASTE_LINK_SVG_WAKATIME" alt="Languages over all time (WakaTime)" width="100%">
+
+<br>
+<br>
+-->
 
 <h3>Activity</h3>
 
