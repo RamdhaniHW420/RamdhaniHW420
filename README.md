@@ -25,6 +25,34 @@ hunting   ->  web & API vulnerabilities
 
 <div align="center">
 
+<h3>How I hunt</h3>
+
+</div>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0d1117','primaryTextColor':'#f5f1ea','primaryBorderColor':'#ff8a45','lineColor':'#ff8a45','secondaryColor':'#161b22','tertiaryColor':'#0d1117'}}}%%
+flowchart LR
+    A([Recon]) --> B([Map attack surface])
+    B --> C([Test & probe])
+    C --> D([Validate PoC])
+    D --> E([Report responsibly])
+    E --> F([Retest the fix])
+```
+
+<details>
+<summary><b>What I focus on</b></summary>
+
+<br>
+
+- **Web and mobile apps:** React, Next.js, Node, Laravel, and React Native
+- **Security research:** bug hunting on web apps and APIs
+- **IoT prototypes:** hardware tinkering with Arduino
+- **Products:** building and shipping software at Nexty Labs
+
+</details>
+
+<div align="center">
+
 <br>
 
 <h3>Stack</h3>
@@ -57,6 +85,13 @@ hunting   ->  web & API vulnerabilities
   <img src="https://img.shields.io/github/followers/DhanzzZ?style=flat-square&label=followers&labelColor=ff7a2f&color=0d1117" alt="Followers">
   <img src="https://komarev.com/ghpvc/?username=DhanzzZ&label=profile%20views&color=ff7a2f&style=flat-square" alt="Profile views">
 </p>
+
+</div>
+
+> [!TIP]
+> Found a vulnerability in one of my projects? Please report it responsibly through LinkedIn or Instagram. I will respond as soon as I can.
+
+<div align="center">
 
 <sub>Open for collaboration. Say hi, or report a bug responsibly.</sub>
 
