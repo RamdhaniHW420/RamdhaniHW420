@@ -11,17 +11,7 @@
 
 </div>
 
-```console
-$ whoami
-ramdhani hadi winarno  /  fullstack developer  /  bug hunter
 
-$ cat stack.txt
-python / typescript / go / php / react / next.js / node / laravel
-
-$ ./now.sh
-founder   ->  Nexty Labs
-hunting   ->  web & API vulnerabilities
-```
 
 <div align="center">
 
@@ -49,15 +39,13 @@ hunting   ->  web & API vulnerabilities
 
 <h3>Activity</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhanzzZ&bg_color=0d1117&color=c9d1d9&line=ff8a45&point=f5f1ea&area=true&area_color=ff8a45&hide_border=true&radius=12" alt="Contribution activity graph" width="100%">
-
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DhanzzZ&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff8a45&icon_color=ff8a45&text_color=c9d1d9&ring_color=ff8a45" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanzzZ&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff8a45&text_color=c9d1d9" alt="Top languages">
+  <img src="https://streak-stats.demolab.com?user=DhanzzZ&hide_border=true&background=0d1117&ring=ff8a45&fire=ff8a45&currStreakLabel=ff8a45&sideLabels=c9d1d9&currStreakNum=f5f1ea&sideNums=f5f1ea&dates=6b7480&stroke=30363d" alt="GitHub streak">
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=DhanzzZ&hide_border=true&background=0d1117&ring=ff8a45&fire=ff8a45&currStreakLabel=ff8a45&sideLabels=c9d1d9&currStreakNum=f5f1ea&sideNums=f5f1ea&dates=6b7480&stroke=30363d" alt="GitHub streak">
+  <img src="https://img.shields.io/github/followers/DhanzzZ?style=flat-square&label=followers&labelColor=ff7a2f&color=0d1117" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=DhanzzZ&label=profile%20views&color=ff7a2f&style=flat-square" alt="Profile views">
 </p>
 
 <sub>Open for collaboration. Say hi, or report a bug responsibly.</sub>
